@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Work/0 Ad 2022/0 Ad Google Tx Github Lib Developing Floor Lib/app/src/main/res/drawable/ad_curved_shape.xml" value="0.2203125" />
+        <entry key="..\:/Work/0 Ad 2022/0 Ad Google Tx Github Lib Developing Floor Lib/app/src/main/res/drawable/curved_shape.xml" value="0.2203125" />
+        <entry key="..\:/Work/0 Ad 2022/0 Ad Google Tx Github Lib Developing Floor Lib/app/src/main/res/drawable/gnt_outline_shape.xml" value="0.2203125" />
+        <entry key="..\:/Work/0 Ad 2022/0 Ad Google Tx Github Lib Developing Floor Lib/app/src/main/res/drawable/gnt_rounded_corners_shape.xml" value="0.2203125" />
+        <entry key="..\:/Work/0 Ad 2022/0 Ad Google Tx Github Lib Developing Floor Lib/app/src/main/res/layout/custom_progress.xml" value="0.12771739130434784" />
+        <entry key="..\:/Work/0 Ad 2022/0 Ad Google Tx Github Lib Developing Floor Lib/app/src/main/res/layout/fancygifdialog.xml" value="0.12771739130434784" />
+        <entry key="..\:/Work/0 Ad 2022/0 Ad Google Tx Github Lib Developing Floor Lib/app/src/main/res/layout/fc_nativeview.xml" value="0.12771739130434784" />
+        <entry key="..\:/Work/0 Ad 2022/0 Ad Google Tx Github Lib Developing Floor Lib/app/src/main/res/layout/full_screen_custom_progress.xml" value="0.12771739130434784" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
